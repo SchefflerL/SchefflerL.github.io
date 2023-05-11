@@ -9,5 +9,5 @@ nao.style.left = randomX + "px";
 
 var sim = document.getElementById("sim");
 sim.addEventListener("click", function() {
-window.location.href = "https://www.youtube.com/watch?v=sLGQxRHIoZY";
+window.location.href = "https://www.youtube.com/embed/wfHLE0DQ-8Q?start=48";
 });
