@@ -1,7 +1,7 @@
-body {body {
+body {
     text-align: center;
     padding-top: 50px;
-    background: linear-gradient(1000deg, pink, purple));
+    background: linear-gradient(1000deg, rgb(18, 1, 82), rgb(195, 0, 255));
     }
     
     button {
@@ -23,6 +23,6 @@ body {body {
 
    iframe {
     margin: 0 auto;
-    width: 50%;
+    width: 560px;
     display: flex;
    }
