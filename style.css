@@ -1,9 +1,8 @@
-body {
+body {body {
     text-align: center;
     padding-top: 50px;
-    background: linear-gradient(1000000deg, rgb(39, 8, 150), rgb(204, 4, 223));
+    background: linear-gradient(1000deg, rgb(18, 1, 82), rgb(195, 0, 255));
     }
-    
     
     button {
     background-color: #ffffff;
@@ -21,10 +20,9 @@ body {
     background-color: #ff9999;
     color: #ffffff;
     }
-    img {
-        display: flex;
-    }
-   div {
+
+   iframe {
     margin: 0 auto;
-    width: 200px;
+    width: 560px;
+    display: flex;
    }
