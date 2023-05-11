@@ -23,6 +23,6 @@ body {body {
 
    iframe {
     margin: 0 auto;
-    width: 560px;
+    width: 50%;
     display: flex;
    }
